@@ -60,19 +60,12 @@ Compatible with Windows, macOS, and Linux (Python 3.10+ recommended).
 📦 Dependencies
 
 Python 3.10+
-
 pandas
-
 sentence-transformers
-
 langchain
-
 langchain-chroma
-
 chromadb
-
 gradio
-
 torch
 
 📷 Optional
@@ -105,8 +98,3 @@ MIT License
 
 ---
 
-✅ Dieses Markdown kannst du **direkt als `README.md` in dein GitHub-Repo** legen.  
-
-Wenn du willst, kann ich noch eine **Version mit Screenshots, Live-Demo-Badge und schönem GitHub-Style** erstellen, die wie ein echtes Produkt-Repo aussieht.  
-
-Willst du, dass ich das mache?
