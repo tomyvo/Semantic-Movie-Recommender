@@ -29,7 +29,7 @@ project/
 
 ---
 
-🚀 Usage
+## 🚀 Usage
 python app.py
 
 
@@ -39,7 +39,10 @@ Enter a description of your ideal movie (e.g., "A sci-fi movie about time travel
 
 Click Find recommendations to browse the top recommended movies with posters.
 
-🧠 How It Works
+---
+
+
+## 🧠 How It Works
 
 Chroma Vector Database – stores embeddings of movie descriptions locally.
 
@@ -49,7 +52,9 @@ Cross-Encoder Reranking – reranks results for maximum relevance.
 
 Gallery Display – top recommendations are shown with poster images in the Gradio UI.
 
-✅ Notes
+--- 
+
+## ✅ Notes
 
 Requires internet access to fetch poster images.
 
@@ -57,7 +62,9 @@ chroma_movies_bge folder contains the prebuilt embeddings – no retraining nece
 
 Compatible with Windows, macOS, and Linux (Python 3.10+ recommended).
 
-📦 Dependencies
+---
+
+## 📦 Dependencies
 
 Python 3.10+
 pandas
@@ -68,10 +75,13 @@ chromadb
 gradio
 torch
 
-📷 Optional
+---
+
+## 📷 Optional
 
 If a poster URL is missing or broken, placeholder.png will be shown instead.
 
+---
 
 ## ⚡ Installation
 
